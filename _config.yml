@@ -1,0 +1,28 @@
+name: Stuck in the Internet
+favicon: null
+layout_spectrum: 0.9865953742992133
+typography_spectrum: 0.23440891155041754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6029084408655763
+  lightness: 0.44656633655540645
+  saturation: 0.7097595978993922
+  rhythmicContrast: 0.8669347385875881
+purpose: []
